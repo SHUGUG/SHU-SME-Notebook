@@ -6,6 +6,7 @@
 - 半导体物理：https://github.com/liyuxuan3003/SemiconductorPhysics
 - 电磁场与电磁波：https://github.com/liyuxuan3003/ElectromagneticField
 - 概率论与数理统计：https://github.com/liyuxuan3003/ProbabilityTheory
+- 信号与系统：https://github.com/liyuxuan3003/SignalsAndSystems
 
 ## 未开源部分（仅包含输出的PDF笔记文件）
 - 汇总仓库（包含微积分/大物等基础课）：https://github.com/liyuxuan3003/LaTeX-Notebook
